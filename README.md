@@ -45,6 +45,4 @@ console.log("Supplier2 USDT balance:", protocol.getSupplierBalance("supplier2", 
 // Get borrower balances
 console.log("Borrower1 BTC balance:", protocol.getBorrowerBalance("borrower1", "BTC"));
 console.log("Borrower2 USDT balance:", protocol.getBorrowerBalance("borrower2", "USDT"));
-Notes:
-The calculateInterestRate function, in this example, uses a random number to determine the interest rate. This is purely for demonstration and should be replaced with a more sophisticated model in a real-world scenario.
-Make sure to check the balances and interest rates after performing deposit and borrow operations to ensure the system's consistency.
+
