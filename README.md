@@ -14,8 +14,7 @@ Get interest rates for a specific asset.
 Get the total balance of a specific asset in the money market.
 Get the balance of a specific supplier or borrower for an asset.
 Usage:
-javascript
-Copy code
+
 const protocol = new MoneyMarketProtocol();
 
 // Suppliers deposit assets
