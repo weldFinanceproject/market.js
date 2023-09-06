@@ -8,6 +8,7 @@ MoneyMarketProtocol is a simple representation of a decentralized financial syst
 
 Features:
 Deposit assets.
+
 Borrow assets.
 Calculate interest rates for assets based on supply and demand.
 Get interest rates for a specific asset.
