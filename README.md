@@ -1,8 +1,5 @@
 # market.js
 
-
-
-
 MoneyMarketProtocol
 MoneyMarketProtocol is a simple representation of a decentralized financial system where users can deposit (as suppliers) and borrow (as borrowers) various assets. The protocol also allows for the calculation and retrieval of interest rates for each asset.
 
