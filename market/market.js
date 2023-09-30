@@ -14,6 +14,9 @@ class MoneyMarketProtocol {
     }
     if (!this.suppliers[userAddress][asset]) {
       this.suppliers[userAddress][asset] = 0;
+      this.assetBalance = {};
+    this.interestRate = {};
+  }
     }
     this.suppliers[userAddress][asset] += amount;
 
